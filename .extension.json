@@ -1,0 +1,21 @@
+{
+  "extension": {
+    "sass": [
+      "_counter-conduct-magazine-style-guide.scss",
+      "global/**/*",
+      "elements/**/*",
+      "components/**/*",
+      "layouts/**/*"
+    ],
+    "images": [
+      "**"
+    ],
+    "js": [
+      "**"
+    ],
+    "fonts": [
+      "**"
+    ],
+    "license": "CC BY-NC-SA"
+  }
+}
